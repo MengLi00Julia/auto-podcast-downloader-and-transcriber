@@ -1,5 +1,5 @@
 # Auto Podcast Downloader and Transcriber
-This project enables automatic downloading of episodes containing keywords of interest from your specified podcast channels. It then transcribes each downloaded episode into accurate textual transcripts, enabling you to easily navigate and find specific information within the episodes.
+This project utilizes Beautiful Soup for web scraping to enable the automatic downloading of episodes containing keywords of interest from your specified podcast channels. It further integrates with the AssemblyAI API to transcribe each downloaded episode into accurate textual transcripts, empowering you to easily navigate and find specific information within the episodes.
 
 ## Setup
 
