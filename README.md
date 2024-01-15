@@ -1,4 +1,9 @@
-# Auto Podcast Downloader and Transcriber
+<div align="center">
+
+  <h2 align="center">Auto Podcast Downloader and Transcriber</h2>
+
+</div>
+
 This project utilizes Beautiful Soup for web scraping to enable the automatic downloading of episodes containing keywords of interest from your specified podcast channels. It further integrates with the AssemblyAI API to transcribe each downloaded episode into accurate textual transcripts, empowering you to easily navigate and find specific information within the episodes.
 
 ## Setup
@@ -33,14 +38,28 @@ After completing the steps above, you can execute the 'run_scripts.bat' file. Th
 
 After the execution is complete, you can find the downloaded episodes in the 'downloads' folder and the transcribed text files in the 'transcripts' folder. Sample files and transcripts are shown in the screenshots below.
 
+<br/>
+
+<div align="center">
+
 *downloads_folder_sample*
 
 ![file_sample](./sample_screenshots/downloads_folder_sample.png) 
+
+</div>
+
+<div align="center">
 
 *transcripts_folder_sample*
   
 ![file_sample](./sample_screenshots/transcripts_folder_sample.png) 
 
+</div>
+
+<div align="center">
+
 *transcripts_sample*
   
 ![file_sample](./sample_screenshots/transcripts_sample.png) 
+
+</div>
